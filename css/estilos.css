@@ -51,3 +51,7 @@ img{
 	-webkit-filter: blur(10px); /* Chrome, Safari, Opera */
 	filter: blur(10px);
 }
+#imagen3 img{
+	-webkit-filter: invert(100%); /* Chrome, Safari, Opera */
+	filter: invert(100%);
+}

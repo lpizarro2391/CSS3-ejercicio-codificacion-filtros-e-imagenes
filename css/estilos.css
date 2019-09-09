@@ -55,3 +55,7 @@ img{
 	-webkit-filter: invert(100%); /* Chrome, Safari, Opera */
 	filter: invert(100%);
 }
+#imagen4 img{
+	-webkit-filter: sepia(90%); /* Chrome, Safari, Opera */
+	filter: sepia(90%);
+}

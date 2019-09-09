@@ -46,3 +46,8 @@ img{
 	-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
 	filter: grayscale(100%);
 }
+
+#imagen2 img{
+	-webkit-filter: blur(10px); /* Chrome, Safari, Opera */
+	filter: blur(10px);
+}
